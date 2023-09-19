@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter project.
+A new Flutter project. This is a calculator app designed exactly like Iphone calculator and performs basic operations like addition, subtraction, multiplication and division. 
 
 ## Getting Started
 
